@@ -5,6 +5,9 @@
  - *Dosen  :Agung Nugroho, S.Kom., M.Kom.*
  - *Matkul : Pemrograman Web*
 
+link : https://youtu.be/-ix-XswQz10?si=1c2AiwrH3C_TUZly
+
+
 # *STRUKTUR SPAREPART LANSVARISI*
 ```
 project-root/
